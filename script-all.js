@@ -222,10 +222,10 @@ $("#myModal").modal();
 
 
 
+// Еще один комментарий
 
-//Галерея
 /* 
-function sh() {
+function sh1() {
    nextText = document.getElementById("nexttext");
    more = document.getElementById("more");
    if( nextText.style.display == "none" ) { nextText.style.display = "inline"; more.innerHTML='';} else { nextText.style.display = "none"; more.innerHTML='Подробнее';}
